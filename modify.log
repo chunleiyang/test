@@ -1,0 +1,11 @@
+WARNING: 05-06 04:45:37:  read user data from dbgate failed, maybe not exist. [usreid:100]
+NOTICE:  05-06 04:51:26:  begin time
+WARNING: 05-06 04:51:26:  read user data from dbgate failed, maybe not exist. [usreid:100]
+NOTICE:  05-06 04:51:26:  end time
+NOTICE:  05-06 04:51:26:  process 5 uids. cost 0.13094615936279 s!
+NOTICE:  05-06 04:52:09:  begin time
+NOTICE:  05-06 04:52:09:  end time
+NOTICE:  05-06 04:52:09:  process 1 uids. cost 0.031754970550537 s!
+NOTICE:  05-06 04:52:20:  begin time
+NOTICE:  05-06 04:52:20:  end time
+NOTICE:  05-06 04:52:20:  process 4 uids. cost 0.11886310577393 s!
